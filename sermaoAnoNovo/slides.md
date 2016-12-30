@@ -198,3 +198,8 @@ Mateus 6:6 (NVI)
 
 
 <video class="stretch" data-autoplay src="./img/ano_novo.mp4"></video>
+
+
+
+## Você não perde quando você perde.
+## **Você perde quando você desiste**.
